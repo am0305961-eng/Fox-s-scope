@@ -7,6 +7,7 @@ and exploring cybersecurity concepts.
 ## Projects
 | Tool | Description | Version |
 |------|-------------|---------|
+| Main | The Main File | v1.0 |
 | Port Scanner | Multithreaded TCP port scanner | v2.0 |
 | IP Scanner | Multithreaded TCP IP scanner | v1.0 |
 
