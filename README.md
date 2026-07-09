@@ -10,7 +10,7 @@ and exploring cybersecurity concepts.
 | Main | The Main File | v2.0 |
 | Port Scanner | Multithreaded TCP port scanner | v2.0 |
 | IP Scanner | Multithreaded TCP IP scanner | v2.0 |
-| Banner Grabber | a Banner Grabber | v2.0 |
+| Banner Grabber | a Banner Grabber | v1.0 |
 
 ## Disclaimer
 For educational purposes and authorized testing only.
